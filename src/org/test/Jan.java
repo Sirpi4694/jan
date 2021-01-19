@@ -1,0 +1,10 @@
+package org.test;
+
+public class Jan {
+	public static void main(String[] args) {
+		String s= "sirpi";
+		
+		System.out.println(s);
+	}
+
+}
